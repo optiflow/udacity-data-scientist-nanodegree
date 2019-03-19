@@ -1,0 +1,2 @@
+# udacity_data_scientist_nanodegree
+course assignments done
