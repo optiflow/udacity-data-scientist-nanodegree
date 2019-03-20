@@ -1,6 +1,6 @@
 # Coursework for Udacity's Data Scientist Nanodegree
 ---
-Coursework for supervised learning is in assignment_1 folder. Implmentation involves data preparation, choosing appropriate model, hyperparameters tuning.
+Coursework for supervised learning is in _assignment_1_ folder. Implmentation involves data preparation, choosing appropriate model, hyperparameters tuning.
 
 ## License
 ---
